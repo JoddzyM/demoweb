@@ -1,0 +1,21 @@
+/* stylesheet */
+
+body {background-color: black;
+color: blueviolet }
+
+/* Card design */
+
+footer img { width:500px;}
+
+.card figcaption { margin:3px;}
+
+
+/* Backgrounds */
+
+.background { background-image:url("../back/moon.png"),url("../back/fields.png"), url("../back/bluewall.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+ }
+
+.texture { background-image:url("../back/wood.png") }
